@@ -1,0 +1,21 @@
+Task 4
+
+Classes: Person, Address, Student, Professor
+
+Attributes: 
+Person: Name, Surname, Age
+
+Address: Street, City, State, Posta Code, Country
+
+Professor: Salary
+
+Student: Student Number, Average Mark
+
+
+Methods:
+IntroduceYourself():String
+Validate():String
+Output as Label(): String
+Is eligible to Enroll(): Boolean
+Get Seminars Taken(): Boolean
+
